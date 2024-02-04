@@ -1,5 +1,4 @@
 import { TestBed } from '@angular/core/testing';
-
 import { UserListInterceptorService } from './user-list-interceptor.service';
 
 describe('UserListInterceptorService', () => {
